@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="846" viewBox="0 0 390 846" role="img" aria-labelledby="title desc">
+<title id="title">Cedric LIN | ruohao1</title>
+<desc id="desc">Cedric LIN (@ruohao1). Focus: cybersecurity, agents, and tools. Education: UQAC and Télécom Nancy. Setup: Neovim and tmux. CTF finishes: 1st Cyber Saguenay; 2nd Mastercard (tied 1st). Stack: Go, TypeScript, Python, Lua, and Docker. Side quests: whatever catches my attention.</desc>
+<rect x="0.5" y="0.5" width="389" height="845" rx="14" fill="#ffffff" stroke="#c5d2dd"/>
+<path d="M14 1H376Q389 1 389 14V48H1V14Q1 1 14 1Z" fill="#f1f5f8"/>
+<path d="M1 48H389" stroke="#c5d2dd"/>
+<g font-family="DejaVu Sans Mono,Consolas,monospace">
+<circle cx="25" cy="24" r="4" fill="#dd8283"/>
+<circle cx="43" cy="24" r="4" fill="#dfbd78"/>
+<circle cx="61" cy="24" r="4" fill="#76baa5"/>
+<text x="86" y="28" font-size="12" fill="#576c7b" xml:space="preserve">~/profile/identity</text>
+<text x="30" y="88" font-size="15" fill="#087b7a" font-weight="700" xml:space="preserve">ruohao1@github</text>
+<text x="30" y="129" font-size="28" fill="#203342" font-weight="700" xml:space="preserve">Cedric LIN</text>
+<text x="65" y="165" font-size="11" fill="#087b7a" xml:space="preserve">       ___             ___</text>
+<text x="65" y="178" font-size="11" fill="#087b7a" xml:space="preserve">     .&#x27;   &#x27;.         .&#x27;   &#x27;.</text>
+<text x="65" y="191" font-size="11" fill="#087b7a" xml:space="preserve">    /  .-.  \_______/  .-.  \</text>
+<text x="65" y="204" font-size="11" fill="#087b7a" xml:space="preserve">    | ( o )           ( o ) |</text>
+<text x="65" y="217" font-size="11" fill="#087b7a" xml:space="preserve">    |  &#x27;-&#x27;     ___     &#x27;-&#x27;  |</text>
+<text x="65" y="230" font-size="11" fill="#087b7a" xml:space="preserve">    |        .&#x27;   &#x27;.        |</text>
+<text x="65" y="243" font-size="11" fill="#087b7a" xml:space="preserve">    |        |  ^  |        |</text>
+<text x="65" y="256" font-size="11" fill="#087b7a" xml:space="preserve">    |         &#x27;---&#x27;         |</text>
+<text x="65" y="269" font-size="11" fill="#087b7a" xml:space="preserve">    |         [ ][ ]        |</text>
+<text x="65" y="282" font-size="11" fill="#087b7a" xml:space="preserve">    |                       |</text>
+<text x="65" y="295" font-size="11" fill="#087b7a" xml:space="preserve">    |      .--------.       |</text>
+<text x="65" y="308" font-size="11" fill="#087b7a" xml:space="preserve">    |      | &gt;_     |       |</text>
+<text x="65" y="321" font-size="11" fill="#087b7a" xml:space="preserve">    |      &#x27;--------&#x27;       |</text>
+<text x="65" y="334" font-size="11" fill="#087b7a" xml:space="preserve">     \                     /</text>
+<text x="65" y="347" font-size="11" fill="#087b7a" xml:space="preserve">      &#x27;.                 .&#x27;</text>
+<text x="65" y="360" font-size="11" fill="#087b7a" xml:space="preserve">        &#x27;--._________.--&#x27;</text>
+<text x="65" y="373" font-size="11" fill="#087b7a" xml:space="preserve">          /___/   \___\</text>
+<text x="30" y="405" font-size="11" fill="#92520e" font-weight="700" xml:space="preserve">FOCUS</text>
+<text x="30" y="430" font-size="15" fill="#203342" xml:space="preserve">cybersecurity / agents / tools</text>
+<text x="30" y="463" font-size="11" fill="#92520e" font-weight="700" xml:space="preserve">EDUCATION</text>
+<text x="30" y="488" font-size="15" fill="#203342" xml:space="preserve">UQAC / Télécom Nancy</text>
+<text x="30" y="521" font-size="11" fill="#92520e" font-weight="700" xml:space="preserve">SETUP</text>
+<text x="30" y="546" font-size="15" fill="#203342" xml:space="preserve">Neovim / tmux</text>
+<text x="30" y="579" font-size="11" fill="#92520e" font-weight="700" xml:space="preserve">CTF FINISHES</text>
+<text x="30" y="604" font-size="15" fill="#203342" xml:space="preserve">1st · Cyber Saguenay CTF</text>
+<text x="30" y="626" font-size="15" fill="#203342" xml:space="preserve">2nd · Mastercard CTF (tied 1st)</text>
+<text x="30" y="659" font-size="11" fill="#92520e" font-weight="700" xml:space="preserve">STACK</text>
+<text x="30" y="684" font-size="15" fill="#203342" xml:space="preserve">Go / TypeScript / Python</text>
+<text x="30" y="706" font-size="15" fill="#203342" xml:space="preserve">Lua / Docker</text>
+<text x="30" y="739" font-size="11" fill="#92520e" font-weight="700" xml:space="preserve">SIDE QUESTS</text>
+<text x="30" y="764" font-size="15" fill="#203342" xml:space="preserve">whatever catches my attention</text>
+<rect x="30" y="817" width="16" height="6" rx="1" fill="#087b7a"/>
+<rect x="52" y="817" width="16" height="6" rx="1" fill="#65b8cf"/>
+<rect x="74" y="817" width="16" height="6" rx="1" fill="#779ecb"/>
+<rect x="96" y="817" width="16" height="6" rx="1" fill="#b6a4d9"/>
+<rect x="118" y="817" width="16" height="6" rx="1" fill="#92520e"/>
+<rect x="140" y="817" width="16" height="6" rx="1" fill="#576c7b"/>
+</g>
+</svg>
